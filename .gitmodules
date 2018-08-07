@@ -1,11 +1,11 @@
-[submodule "Source"]
+[submodule "Source"]                             
 	path = Source
 	#url = git@github.com:Pangeae/Source.git
-        url = https://github.com/Pangeae/Source
+        url = https://gitlab.com/Balikhin/Source
 	branch = master
 [submodule "ShooterGame"]	
         path = Plugins/ShooterGame	
-        url = https://github.com/Pangeae/ShooterGame
+        url = https://github.com/Balikhin/ShooterGame
         branch = master
 #[submodule "WorldsContent"]
 #        path = Plugins/WorldsContent
