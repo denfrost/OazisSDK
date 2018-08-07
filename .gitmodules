@@ -1,0 +1,13 @@
+[submodule "Source"]
+	path = Source
+	#url = git@github.com:Pangeae/Source.git
+        url = https://github.com/Pangeae/Source
+	branch = master
+[submodule "ShooterGame"]	
+        path = Plugins/ShooterGame	
+        url = https://github.com/Pangeae/ShooterGame
+        branch = master
+#[submodule "WorldsContent"]
+#        path = Plugins/WorldsContent
+#	url = https://github.com/Pangeae/WorldsContent
+#	branch = master
