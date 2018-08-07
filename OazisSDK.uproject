@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AD851E88-4313-DA42-F00E-A3947D1D018E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "OazisSDK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
